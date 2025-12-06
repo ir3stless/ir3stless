@@ -54,8 +54,8 @@
 
 ---
 
-<details>
-<summary>stats (because recruiters love graphs)</summary>
+
+### stats (because recruiters love graphs)</summary>
 
 <p>
   <!-- Streak card -->
@@ -69,7 +69,6 @@
        alt="Profile details for ir3stless" />
 </p>
 
-</details>
 
 <p align="center">
   <sub>if you're still scrolling: drink water, ship something tiny, touch grass.</sub>
