@@ -12,7 +12,7 @@
 <p align="center">
   18 y/o • gen-z engineer • obsessed with fast ux + clean prompts
   <br/>
-  currently: <a href="https://github.com/ir3stless/Scribly">scribly</a> (notes in your toolbar) <a href="https://github.com/ir3stless/LLM-Cookbook">LLM Cookbook</a> (learn LLM's & how to prompt)
+  currently: <a href="https://proseai.net">⚖️ Pro Se AI</a> & <a href="https://github.com/ir3stless/LLM-Cookbook">🧪 LLM Cookbook</a> (learn LLM's & how to prompt)
 </p>
 
 <p align="center">
@@ -24,6 +24,7 @@
 ---
 
 ### what i’m shipping rn
+- ⚖️ **pro se ai** → an AI law assistant. <a href="https://proseai.net">website</a>
 - 🐦 **scribly** → mini saas-style notes (brave/chrome). <a href="https://github.com/ir3stless/Scribly">repo</a>
 - 🧪 **llm cookbook** → copy-paste patterns that actually work. <a href="https://github.com/ir3stless/LLM-Cookbook">repo</a>
 
